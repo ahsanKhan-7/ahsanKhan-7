@@ -1,76 +1,63 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Generative+AI;Agentic+AI;LangGraph;AI+Agents)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahsanKhan-7&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
-# Hi 👋 I'm Ahsan Khan
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Generative+AI;Agentic+AI;LLM+Applications;LangGraph+Developer;AI+Agents" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<h1 align="center">Hi 👋, I'm Ahsan Khan</h1>
 
-![LangChain](https://img.shields.io/badge/LangChain-AI-green?style=for-the-badge)
+<h3 align="center">
+AI Engineer | Agentic AI | Generative AI | LangGraph | MCP | AI Agents
+</h3>
 
-![LangGraph](https://img.shields.io/badge/LangGraph-Agentic-red?style=for-the-badge)
+<p align="center">
+<a href="https://www.linkedin.com/in/ahsan-khan-358a1b1a0/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<a href="mailto:aahsankhaan7@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-![Agentic AI](https://img.shields.io/badge/Agentic-AI-orange?style=for-the-badge)
-
-# Hi 👋 I'm Ahsan Khan
-
-## AI Engineer | Agentic AI | Generative AI | AI Agents
-
-I am an AI Engineer and Data Science undergraduate passionate about building production-grade AI systems using Large Language Models, Agentic AI, Retrieval-Augmented Generation (RAG), LangGraph workflows, and modern AI infrastructure.
-
-My focus lies in designing intelligent systems that can reason, retrieve information, use tools, maintain memory, and automate real-world tasks.
+<a href="https://github.com/ahsanKhan-7">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## 🚀 Current Focus
+## 🚀 About Me
+
+* 🎓 Data Science Undergraduate
+* 🤖 AI Engineer focused on Generative AI and Agentic AI
+* 🧠 Building AI Agents and LLM Applications
+* 🔥 Exploring LangGraph and MCP
+* ⚡ Interested in Multi-Agent Systems
+* 🚀 Building production-grade AI applications
+
+---
+
+## 🧠 Current Focus
 
 * Agentic AI
 * AI Agents
 * LangGraph
-* Model Context Protocol (MCP)
-* Generative AI
+* MCP (Model Context Protocol)
 * LLM Applications
 * Multi-Agent Systems
 * RAG Architectures
 
 ---
 
-## 🧠 Areas of Interest
+## ⚙️ Tech Stack
 
-* Large Language Models
-* Agentic Workflows
-* Tool Calling
-* Memory Systems
-* Multi-Agent Systems
-* Autonomous AI
-* Retrieval-Augmented Generation
-* LLM Engineering
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,cs,fastapi,pytorch,docker,git,vscode,pycharm" />
+</p>
 
----
-
-## ⚙️ Languages
-
-* Python
-* JavaScript
-* C++
-* Java
-* C#
-* SQL
-
----
-
-## 🤖 AI & Machine Learning
-
-* Machine Learning
-* Deep Learning
-* PyTorch
-* Scikit-Learn
-* Pandas
-* NumPy
-
----
-
-## 🧩 Generative AI
+### 🤖 AI & Generative AI
 
 * LangChain
 * LangGraph
@@ -78,35 +65,55 @@ My focus lies in designing intelligent systems that can reason, retrieve informa
 * AI Agents
 * Prompt Engineering
 * Vector Databases
-* MCP
 * Tool Calling
+* MCP
 
----
-
-## 🗄️ Databases
+### 🗄️ Databases
 
 * ChromaDB
 * CockroachDB
-* SQL Databases
-* NoSQL Databases
+* SQL
+* NoSQL
 
----
-
-## ⚡ Frameworks & Tools
+### ⚡ Frameworks & Tools
 
 * FastAPI
 * Streamlit
 * n8n
+* Docker
 * Git
 * GitHub
-* Docker
-* VS Code
-* PyCharm
 * Jupyter Notebook
 
 ---
 
-## 🔥 Featured Projects
+## 📊 GitHub Statistics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahsanKhan-7&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanKhan-7&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ahsanKhan-7&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsanKhan-7&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 ### AI Resume Intelligence Platform
 
@@ -128,7 +135,7 @@ Machine learning system for customer retention prediction.
 
 ## 🎯 2026 Goals
 
-* Build production-ready AI agents.
+* Build production-grade AI agents.
 * Master Agentic AI systems.
 * Explore MCP ecosystems.
 * Contribute to open-source AI projects.
@@ -136,36 +143,10 @@ Machine learning system for customer retention prediction.
 
 ---
 
-## Tech Stack
+## 📫 Connect With Me
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,cs,fastapi,pytorch,git,docker,vscode,pycharm" />
+<p align="left">
+📧 Email: <strong>aahsankhaan7@gmail.com</strong><br>
+💼 LinkedIn: <strong>linkedin.com/in/ahsan-khan-358a1b1a0</strong><br>
+💻 GitHub: <strong>github.com/ahsanKhan-7</strong>
 </p>
-
-## GitHub Stats
-
-![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsanKhan-7&show_icons=true)
-
-
-## Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanKhan-7&layout=compact)
-
-
-## Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ahsanKhan-7)
-
-
-
-
-### Connect With Me
-
-LinkedIn:
-linkedin.com/in/ahsan-khan-358a1b1a0
-
-GitHub:
-github.com/ahsanKhan-7
-
-Email:
-aahsankhaan7@gmail.com
