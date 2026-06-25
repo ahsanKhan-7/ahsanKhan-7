@@ -1,5 +1,17 @@
 # Hi 👋 I'm Ahsan Khan
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![LangChain](https://img.shields.io/badge/LangChain-AI-green?style=for-the-badge)
+
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic-red?style=for-the-badge)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+![Agentic AI](https://img.shields.io/badge/Agentic-AI-orange?style=for-the-badge)
+
+# Hi 👋 I'm Ahsan Khan
+
 ## AI Engineer | Agentic AI | Generative AI | AI Agents
 
 I am an AI Engineer and Data Science undergraduate passionate about building production-grade AI systems using Large Language Models, Agentic AI, Retrieval-Augmented Generation (RAG), LangGraph workflows, and modern AI infrastructure.
