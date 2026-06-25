@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Generative+AI;Agentic+AI;LangGraph;AI+Agents)](https://git.io/typing-svg)
+
 # Hi 👋 I'm Ahsan Khan
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -133,6 +135,29 @@ Machine learning system for customer retention prediction.
 * Develop real-world AI products.
 
 ---
+
+## Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,cs,fastapi,pytorch,git,docker,vscode,pycharm" />
+</p>
+
+## GitHub Stats
+
+![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsanKhan-7&show_icons=true)
+
+
+## Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanKhan-7&layout=compact)
+
+
+## Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ahsanKhan-7)
+
+
+
 
 ### Connect With Me
 
