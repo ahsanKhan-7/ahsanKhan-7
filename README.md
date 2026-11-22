@@ -1,152 +1,26 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahsanKhan-7&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+# Hi, I'm Ahsan Khan
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Generative+AI;Agentic+AI;LLM+Applications;LangGraph+Developer;AI+Agents" />
-</p>
+**Data Science undergraduate in Islamabad building RAG and LLM applications in Python.**
 
-<h1 align="center">Hi 👋, I'm Ahsan Khan</h1>
+[LinkedIn](https://www.linkedin.com/in/ahsan-khan-358a1b1a0/) · [Email](mailto:aahsankhaan7@gmail.com) · [Portfolio](https://portfolio-bice-six-92.vercel.app)
 
-<h3 align="center">
-AI Engineer | Agentic AI | Generative AI | LangGraph | MCP | AI Agents
-</h3>
+## Projects
 
-<p align="center">
-<a href="https://www.linkedin.com/in/ahsan-khan-358a1b1a0/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+| Project | What it does | Built with |
+|---|---|---|
+| [xoro-ai](https://github.com/ahsanKhan-7/xoro-ai) | Turns a YouTube link or audio/video file into a transcript, summary, action items and decisions, plus a RAG chat grounded in the transcript | Whisper, Mistral, LangChain (LCEL), ChromaDB, Streamlit |
+| [AI Resume Intelligence](https://github.com/ahsanKhan-7/-AI-Resume-Intelligence-Candidate-Ranking-Platform) | Ranks resumes against a job description and shows missing skills and interview questions | TF-IDF, Sentence-BERT, XGBoost, SHAP, Gemini, Streamlit |
+| [ai-semantic-video-search](https://github.com/ahsanKhan-7/ai-semantic-video-search) | Search inside a video in natural language and jump to the matching moment | faster-whisper, Sentence-BERT, cosine similarity, Streamlit |
+| [spendly](https://github.com/ahsanKhan-7/spendly) | Expense tracker built step by step with Claude Code | Flask, SQLite |
 
-<a href="mailto:aahsankhaan7@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+## Tech I have used in these projects
 
-<a href="https://github.com/ahsanKhan-7">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+Python, Streamlit, Flask, LangChain, ChromaDB, scikit-learn, Sentence-BERT, Whisper, SQLite, Git
 
----
+## Learning next
 
-## 🚀 About Me
+LangGraph, MCP (Model Context Protocol), FastAPI, Docker, writing tests and evaluations for LLM apps. I will move each of these into the list above once a public repo shows it.
 
-* 🎓 Data Science Undergraduate
-* 🤖 AI Engineer focused on Generative AI and Agentic AI
-* 🧠 Building AI Agents and LLM Applications
-* 🔥 Exploring LangGraph and MCP
-* ⚡ Interested in Multi-Agent Systems
-* 🚀 Building production-grade AI applications
+## Open to
 
----
-
-## 🧠 Current Focus
-
-* Agentic AI
-* AI Agents
-* LangGraph
-* MCP (Model Context Protocol)
-* LLM Applications
-* Multi-Agent Systems
-* RAG Architectures
-
----
-
-## ⚙️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,cs,fastapi,pytorch,docker,git,vscode,pycharm" />
-</p>
-
-### 🤖 AI & Generative AI
-
-* LangChain
-* LangGraph
-* RAG
-* AI Agents
-* Prompt Engineering
-* Vector Databases
-* Tool Calling
-* MCP
-
-### 🗄️ Databases
-
-* ChromaDB
-* CockroachDB
-* SQL
-* NoSQL
-
-### ⚡ Frameworks & Tools
-
-* FastAPI
-* Streamlit
-* n8n
-* Docker
-* Git
-* GitHub
-* Jupyter Notebook
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahsanKhan-7&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanKhan-7&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=ahsanKhan-7&theme=tokyonight"/>
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsanKhan-7&theme=tokyo-night"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### AI Resume Intelligence Platform
-
-AI-powered resume screening and candidate ranking system.
-
-### AI Video & Meeting Assistant
-
-Transcription, summarization, action-item extraction, and RAG-based question answering.
-
-### AI WhatsApp Agent
-
-Agentic AI assistant with memory, reasoning, and automation capabilities.
-
-### Customer Churn Prediction
-
-Machine learning system for customer retention prediction.
-
----
-
-## 🎯 2026 Goals
-
-* Build production-grade AI agents.
-* Master Agentic AI systems.
-* Explore MCP ecosystems.
-* Contribute to open-source AI projects.
-* Develop real-world AI products.
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-📧 Email: <strong>aahsankhaan7@gmail.com</strong><br>
-💼 LinkedIn: <strong>linkedin.com/in/ahsan-khan-358a1b1a0</strong><br>
-💻 GitHub: <strong>github.com/ahsanKhan-7</strong>
-</p>
+Internships in AI engineering and data science.
